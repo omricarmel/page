@@ -1,0 +1,4 @@
+baseURL = 'https://omric.dingo-mirach.ts.net/'
+languageCode = 'en-us'
+title = 'Journal by Omri Carmel'
+theme = 'PaperMod'
