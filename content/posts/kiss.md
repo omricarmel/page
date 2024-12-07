@@ -24,13 +24,13 @@ But this time I'm not delivering into the drawer. Having a setup compiling every
 
 ### How is this simple? 
 
-Well it's not. But if the last s in kiss is stupid, it is referring to me. Embracingly, I'm currently typing markdown into vim while having it spellcheck me with `:set spell spelllang=en_us`. I wish i could show you my screen right now but I definitely haven't figured out screenshots.
+Well it's not. But the last s in kiss is stupid, and it's referring to me. Embarrassingly, I'm currently typing markdown into vim while having it spellcheck me with `:set spell spelllang=en_us`. I wish i could show you my screen right now but I definitely haven't figured out screenshots.
 
 ### The devil you know
 
 Well I'm sure i could have opened up a medium account and have all this setup avoided. But as Ron Swanson from Parks and Recs once said while ordering a family meal of hamburgers "I know what I'm about son" (enter GIF here).
 
-Having built and deployed many sites for various and questionable purposes, typing in markdown and deploying with a git pipeline seems like an elegant solution. I'll definitely need a more frictionless, but for the mean time this will do.
+Having built and deployed many sites for various and questionable purposes, typing in markdown and deploying with a git pipeline seems like an elegant solution. I'll definitely need a more frictionless setup, but for the mean time this will do.
 
 Oh and BTW the compiler that creates a site out and around these markdown posts is Hugo, written in go and compiles quick and with beautiful plugins. shoutout for making this so easy.
 
