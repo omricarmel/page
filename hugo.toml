@@ -1,4 +1,4 @@
-baseURL = 'https://omric.dingo-mirach.ts.net/'
+baseURL = 'https://journal.omricar.ml/'
 languageCode = 'en-us'
 title = 'Journal by Omri Carmel'
 theme = 'PaperMod'
