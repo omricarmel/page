@@ -1,7 +1,6 @@
 +++
 title = 'Gender Dysphoria 🌈'
 date = 2024-12-09T23:03:13+02:00
-draft = true
 +++
 
 ### \#define Gender Dysphoria
