@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Journal by Omri Carmel</title>
-    <link>https://omric.dingo-mirach.ts.net/posts/</link>
+    <link>https://journal.omricar.ml/posts/</link>
     <description>Recent content in Posts on Journal by Omri Carmel</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Dec 2024 19:40:11 +0200</lastBuildDate>
-    <atom:link href="https://omric.dingo-mirach.ts.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://journal.omricar.ml/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kiss 💋</title>
-      <link>https://omric.dingo-mirach.ts.net/posts/kiss/</link>
+      <link>https://journal.omricar.ml/posts/kiss/</link>
       <pubDate>Sat, 07 Dec 2024 19:40:11 +0200</pubDate>
-      <guid>https://omric.dingo-mirach.ts.net/posts/kiss/</guid>
+      <guid>https://journal.omricar.ml/posts/kiss/</guid>
       <description>Keep it simple, stupid. starting a blog Trying to satisfy my endless urge to show people around me the results of my hobbies they don&amp;rsquo;t care about, I have finally decided to whip up a blog.
-Who will read this? Probably only people I beg to. But maybe someday someone will find actual value in my passion. In the mean time, I&amp;rsquo;m sorry i coerced you into reading this my dear friend/family member/girlfriend.</description>
+Who will read this? Probably only people I beg to. But maybe someday someone will find actual value in my passion. In the meantime, I&amp;rsquo;m sorry I coerced you into reading this my dear friend/family member/girlfriend.</description>
     </item>
   </channel>
 </rss>

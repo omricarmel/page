@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://omric.dingo-mirach.ts.net/</loc>
+    <loc>https://journal.omricar.ml/</loc>
+    <lastmod>2024-12-09T23:03:13+02:00</lastmod>
+  </url><url>
+    <loc>https://journal.omricar.ml/posts/</loc>
+    <lastmod>2024-12-09T23:03:13+02:00</lastmod>
+  </url><url>
+    <loc>https://journal.omricar.ml/posts/kiss/</loc>
     <lastmod>2024-12-07T19:40:11+02:00</lastmod>
   </url><url>
-    <loc>https://omric.dingo-mirach.ts.net/posts/kiss/</loc>
-    <lastmod>2024-12-07T19:40:11+02:00</lastmod>
+    <loc>https://journal.omricar.ml/categories/</loc>
   </url><url>
-    <loc>https://omric.dingo-mirach.ts.net/posts/</loc>
-    <lastmod>2024-12-07T19:40:11+02:00</lastmod>
-  </url><url>
-    <loc>https://omric.dingo-mirach.ts.net/categories/</loc>
-  </url><url>
-    <loc>https://omric.dingo-mirach.ts.net/tags/</loc>
+    <loc>https://journal.omricar.ml/tags/</loc>
   </url>
 </urlset>
